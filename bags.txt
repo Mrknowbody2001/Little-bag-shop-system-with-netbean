@@ -1,0 +1,5 @@
+foa,All,12,2500.0
+caranage,All,4,4500.0
+sdasd,All,2,5000.0
+dasd,Tote Bag,2,3000.0
+foa,Bagpack,12,3500.0
